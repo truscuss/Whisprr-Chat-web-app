@@ -1,12 +1,5 @@
 ## 📁 Project Setup
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/QuickChat-ChatWebApp.git
-cd QuickChat-ChatWebApp
-```
-
 ### Setup .env file
 
 ```js
